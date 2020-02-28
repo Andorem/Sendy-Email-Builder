@@ -46,4 +46,4 @@ v1.0.0 - March 15, 2018
 ## About
 At [Maxiom Apps](https://www.maxiomapps.com) we are comprehensive team of full-stack designers and developers covering any technology stack and platform and any code language.
 
-**Have a project in mind? [Let's talk!](https://www,maxiomapps.com)
+**Have a project in mind? [Let's talk!](https://www.maxiomapps.com)
