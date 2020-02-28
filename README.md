@@ -44,6 +44,6 @@ v1.0.0 - March 15, 2018
 (c) 2018  [DigitalWheat](https://digitalwheat.com) - All rights reserved.
 
 ## About
-At [DigitalWheat](https://digitalwheat.com) we create modern web-applications for small and medium-sized business. 
+At [Maxiom Apps](https://www.maxiomapps.com) we are comprehensive team of full-stack designers and developers covering any technology stack and platform and any code language.
 
-**Have a project in mind? [Let's talk!](https://digitalwheat.com/get-quote)**
+**Have a project in mind? [Let's talk!](https://www,maxiomapps.com)
