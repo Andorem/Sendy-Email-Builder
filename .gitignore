@@ -7,3 +7,4 @@ $RECYCLE.BIN/
 
 # NPM
 node_modules/
+ _config.php
